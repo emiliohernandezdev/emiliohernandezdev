@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Emilio</h1>
 <h3 align="center"> I’m Emilio, a passionate developer from Guatemala. I like to learn modern programming technologies and languages.
-   I’ve been working for Plus Technologies and Innovations since 2020 developing and supporting programs to prevent financial crime.
+   I’ve been working for Plus Technologies and Innovations since 2020, developing and supporting programs to prevent financial crime.
    In my spare time, I play video games and develop crazy applications to acquire knowledge.
 </h3>
 
