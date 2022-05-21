@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Emilio</h1>
-<h3 align="center"> I’m Emilio, a passionate developer, from Guatemala, I like to learn modern technologies.
+<h3 align="center"> I’m Emilio, a passionate developer from Guatemala. I like to learn modern programming technologies and languages.
    I’m currently working, since 2022 at Plus Technologies and Innovations, developing and supporting programs to prevent financial crime.
    In my spare time, I play video games and develop crazy applications to to acquire knowledge.
 </h3>
