@@ -52,3 +52,10 @@
    <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="Graphql" width="40" height="40"/> </a> 
 </p>
+
+<p <p align="center" dir="auto">
+  <a href="https://github.com/kevcalderon">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=emiliohernandezdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emiliohernandezdev&layout=compact&langs_count=8&theme=dark" />
+  </a>
+</p>
